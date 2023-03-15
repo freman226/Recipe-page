@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/kUkEpy50iTtzTnry4vBV">
       Solution
     </a>
     <span> | </span>
@@ -45,4 +45,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/freman226)
+- GitHub [freman226](https://github.com/freman226)
